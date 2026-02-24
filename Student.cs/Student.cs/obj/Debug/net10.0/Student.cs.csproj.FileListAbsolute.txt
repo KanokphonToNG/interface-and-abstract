@@ -1,0 +1,4 @@
+F:\work code\Student.cs\Student.cs\obj\Debug\net10.0\Student.cs.GeneratedMSBuildEditorConfig.editorconfig
+F:\work code\Student.cs\Student.cs\obj\Debug\net10.0\Student.cs.AssemblyInfoInputs.cache
+F:\work code\Student.cs\Student.cs\obj\Debug\net10.0\Student.cs.AssemblyInfo.cs
+F:\work code\Student.cs\Student.cs\obj\Debug\net10.0\Student.cs.csproj.CoreCompileInputs.cache
